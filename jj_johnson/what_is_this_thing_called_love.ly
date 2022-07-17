@@ -64,8 +64,6 @@ harmonies = \chordmode {
     aes:7 | R1 | d:min7 | g:7 |
     g1:min7.5- | c:7 | f:min | R1 |
     des:7 | g:7.5+ | c:6 | \hide r2. d4:7|
-    
-  
   
   }
 }

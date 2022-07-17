@@ -1,4 +1,9 @@
 \version "2.20.0"
+
+\include "jazzchords.ily"
+\include "lilyjazz.ily"
+\include "jazzextras.ily"
+
 \header {
   title = "Make Someone Happy"
   subtitle = "from J.J.'s Broadway - 1963"

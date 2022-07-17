@@ -6,7 +6,7 @@
 
 \header {
   dedication = ""
-  title = "What is this thing called love"
+  title = "Laura"
   subtitle = "From 'JJ in Person' LP 1958"
   composer = "The J. J. Johnson Quintet"
   poet = ""
