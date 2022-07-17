@@ -9,7 +9,6 @@
   subtitle = "from J.J.'s Broadway - 1963"
   composer = "J.J. Johnson"
   poet = "Jorge Sintes"
-  tagline = "Engraved with Lilypond 2.20.0"
 }
 <<
 \chords {
