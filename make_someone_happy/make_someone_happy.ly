@@ -35,6 +35,8 @@
 	bes ees, r4 r4 aes | aes8 c, r4 r4 g'8 g | g aes, r2. | r8 g' r4 f ees |
 	d8 d r2. | r4 r8 ges f4 ees | d2 r2 | des4 bes8 c ~ c4. r8 |  
 	r2 d8 c bes4 | a2 f8 g a bes | c f ~ f4 f2 | r1 |
+	r8 b, c ees g4 bes | a8 a g g f4 ees8 d ~ | d4 r8 ees f4 g8 aes ~ | aes4 d,8 g ~ g4 r |
+	g8 bes bes bes bes bes r4 | bes4 g f es8 d | r8 f r f f4 r | ees bes8 d ~ d4 c | f, r2. 
 
 
 
